@@ -55,7 +55,7 @@ Detailed installation instructions can be found in the [python-miio](https://git
 
 ## 🤝Contribution
 
-Contribute to this project by helping correct any translation errors. If you find any inaccuracies in the translation, please create a pull request with your corrections in the [voice_mapping.csv](voice_mapping.csv) file.
+Contribute to this project by helping correct any translation errors. If you find any inaccuracies in the translation, please create a pull request with your corrections in the [ua_voice_mapping.csv](ua_voice_mapping.csv) file.
 
 Your input is essential to the improvement of Dreame vacuum cleaner voice packs and your participation is highly appreciated.
 
