@@ -69,6 +69,6 @@ If you have any questions, suggestions, or feedback, please visit the [Discussio
 
 ---
 
-❗**Disclaimer:** This project is not affiliated with or endorsed by Dreame or its parent companies. It is an independent, community-driven effort to provide voice packs for Dreame Vacuum Cleaners.
+❗**Disclaimer:** This project is not affiliated with or endorsed by Dreame or its parent companies. It is an independent, community-driven effort to provide custom voice packs for Dreame Vacuum Cleaners.
 
 <a href="https://www.buymeacoffee.com/oleksandr.belei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" align="right"></a>
