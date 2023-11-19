@@ -16,7 +16,7 @@ Since the official Dreame app lacks native Ukrainian language support, this proj
 
 | Voice Pack                                     | Description                                | Hash                            | Size           | Samples                                             |
 |-----------------------------------------------|--------------------------------------------|---------------------------------|----------------|-----------------------------------------------------------|
-| [uk_female_pensive](voice_packs/uk_female_pensive/) | *Pensive, introspective, soft, and lovely* | `b4da556caad4800eba706dd788bcb560` | `3585546` | <p align="center">[🔗](voice_samples/uk_female_pensive)</p> |
+| [uk_female_pensive](voice_packs/uk_female_pensive/) | *Pensive, introspective, soft, and lovely* | `55bfe4272ce1e77d9bbafebf9ec99330` | `3585448` | <p align="center">[🔗](voice_samples/uk_female_pensive)</p> |
 
 
 ## ⚙️Installation
