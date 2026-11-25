@@ -1,6 +1,6 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange.svg)](https://www.buymeacoffee.com/oleksandr.belei)
 
-<h1 align="center">Dreame Vacuum Ukrainian Voice Packs</h1>
+<h1 align="center">Ukrainian Voice Packs for Dreame Vacuums</h1>
 
 Enhance your Dreame vacuum cleaner with a custom Ukrainian voice packs. Enjoy voice notifications in the Ukrainian language for cleaning progress, battery status, cleaning scheduling, errors, and more.
 
