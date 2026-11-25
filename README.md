@@ -36,6 +36,8 @@ data:
 
 To suggest a translation correction, open a pull request editing [the Ukrainian voice mapping](ua_voice_mapping.csv). Include your vacuum model and firmware version when reporting an installation issue.
 
+For questions and feedback, use [GitHub Discussions](https://github.com/oleksandr-belei/dreame-vacuum-uk-voice-packs/discussions).
+
 ## License
 
 [MIT](LICENSE). This is an independent project and has no affiliation with Dreame.
